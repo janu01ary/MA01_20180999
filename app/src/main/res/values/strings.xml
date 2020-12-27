@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MA01_20180999</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="kopis_xml_url">http://175.125.91.94/oasis/service/rest/meta16/getkopis01?numOfRows=20</string>
+
+    <string name="title_activity_my_map">Map</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87265595723",
+    "project_id": "ma01-20180999",
+    "storage_bucket": "ma01-20180999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87265595723:android:746779b4a52dcc245cd8ce",
+        "android_client_info": {
+          "package_name": "ddwu.moblie.finalproject.ma01_20180999"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87265595723-l03pdsfn4pjl9pup71bmm3od0ddjp2vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCq_ilDdlKDl1kMzJPCjhFpOaWD3HiYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87265595723-l03pdsfn4pjl9pup71bmm3od0ddjp2vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
